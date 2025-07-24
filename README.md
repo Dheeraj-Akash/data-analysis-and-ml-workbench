@@ -41,8 +41,8 @@ This notebook covers:
 
 ## 👤 Author
 
-**Dheeraj Akash Dokuparthy**  
-George Mason University
+**Sriram Pulipaka**  
+Webster University
 
 ---
 
